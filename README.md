@@ -8,28 +8,43 @@ and also to avoid oerlapping projects.
 
 
 
-- La posibilidad de modificar el codigo que tiene con Alma para un campo complejo con auto-interacción (por ahora es campo real sin autointeracción). Por el momento sólo se han obtenido resultados para campo real (para el cuál la representación hidrodinámica no es exacta), y se discutio en comenzar a analizar el caso complejo. Estos resultados serian importantes para complementar nuestro trabajo, así como el de Tanja y Shapiro quienes aun no hacen el analisis completo.
-Luis, Abril, alguien mas?
+## Modificar el codigo de Alma 
+**Luis, Abril, alguien mas?**
 
-- En algun momento durante la reunion, Argelia y yo comentamos en comparar las soluciones que ya conocemos del sistema SP clásico con las soluciones que se pudieran obtener de la representacion hidrodinamica. Esto para corroborar que en efecto en el limite clásico ambos modelos resultan equivalentes.
-       - Abril, Argelia, Francisco
+		* Para un campo complejo con auto-interacción (por ahora es campo real sin autointeracción). Por el momento sólo se han obtenido resultados para campo real (para el cuál la representación hidrodinámica no es exacta), y se discutio en comenzar a analizar el caso complejo. Estos resultados serian importantes para complementar nuestro trabajo, así como el de Tanja y Shapiro quienes aun no hacen el analisis completo.
 
-- Con Jose Alberto recuerdo lo siguiente:
-        Probar SFDM con datos cosmologicos a nivel lineal, en particular sigma8:
-        -Comparar con predicciones analiticas de Abril
-        * Alberto, Abril, Ana, alguien mas?
 
-- Full 3D (codigo de Pablo): Jose Manuel, Ana, Francisco, Pablo, Luis Padilla
-        - Primeros logros deben ser las pruebas de una y dos configuraciones de equilibrio. Preliminarmente con que funcione en las laptops.
+## comparar las soluciones que ya conocemos del sistema SP clásico
+**Abril, Argelia, Francisco**
+		
+		* Con las soluciones que se pudieran obtener de la representacion hidrodinamica. Esto para corroborar que en efecto en el limite clásico ambos modelos resultan equivalentes.
+       
 
-- Efecto del hoyo negro sobre el BEC en el caso Newtoniano
-        - Luis, Argelia
 
-- Simetria esferica: usar el potenciual del axion y autointeraccion negativa. Medir tiempos de virializacion y perfiles fi$
-        * Participantes iniciales: Francisco, Abril, Luis, quien mas dijo yo? quien a cargo?
+## Probar SFDM con datos cosmologicos a nivel lineal, en particular sigma8:
+**Alberto, Abril, Ana, alguien mas?**
 
-- Siemtria esferica: Averiguar los efectos del hoyo negro en una configuracion de equilibrio
-        * Participantes: Ana (a cargo), Francisco, quien mas?
+		* Comparar con predicciones analiticas de Abril
+
+## Full 3D (codigo de Pablo): 
+**Jose Manuel, Ana, Francisco, Pablo, Luis Padilla**
+        
+        * Primeros logros deben ser las pruebas de una y dos configuraciones de equilibrio. 		* Preliminarmente con que funcione en las laptops.
+
+## Efecto del hoyo negro sobre el BEC en el caso Newtoniano
+**Luis, Argelia**
+
+## Simetria esferica:
+**Francisco, Abril, Luis, quien mas dijo yo? quien a cargo?**
+ 
+		* usar el potenciual del axion y autointeraccion negativa. Medir tiempos de virializacion y perfiles fi$
+         
+
+## Siemtria esferica: 
+**Ana (a cargo), Francisco, quien mas?**
+
+		* Averiguar los efectos del hoyo negro en una configuracion de equilibrio
+        
 
 ## Simetria axial:
 **Francisco (a cargo), Tula, Argelia**
