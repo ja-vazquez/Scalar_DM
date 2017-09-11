@@ -6,6 +6,15 @@ The idea is to keep some records for the projects/ideas we have
 in progress. In this way anyone will be able to get involved faster
 and also to avoid oerlapping projects. 
 
+----
+----
+
+# Codigos
+[Codigos](https://github.com/Mini-Taller/Mini-Taller-2017.github.io/blob/master/index.md)
+
+----
+----
+
 # Francisco S.
 
 ## Simulaciones con GADGET modificado:[link](https://www.google.com)
