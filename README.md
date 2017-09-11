@@ -31,29 +31,40 @@ Luis, Abril, alguien mas?
 - Siemtria esferica: Averiguar los efectos del hoyo negro en una configuracion de equilibrio
         * Participantes: Ana (a cargo), Francisco, quien mas?
 
-- Simetria axial: choque de una muestra grande de configs de estado base y trazar el perfil del estado final, buscar uno u$
-La idea es sustituir las muchas estructuras por las muchas posibilidades (linda manera de derrotar la estadistica).
-        * Participantes: Francisco (a cargo), Tula, Argelia,
+## Simetria axial:
+**Francisco (a cargo), Tula, Argelia**
+ 
+		* choque de una muestra grande de configs de estado base y trazar el perfil del estado final, buscar uno u$
+		*La idea es sustituir las muchas estructuras por las muchas posibilidades (linda manera de derrotar la estadistica).
+         
 
-- Simetria axial: choque de configuraciones multiestado, trazar lo que le pasa a los excitados
-        * Participantes: Francisco, Ana, Tula, Argelia, quien mas?
-
-- Pseudo3D (fmr): configuraciones con rotacion, generacion de un muestrario de RCs y ajustar muestras grandes de galaxias $
-        * Participantes: Francisco, Abril, Tula, quien mas?
-
-- Pseudo3D (fmr): Configuraciones con momento angular para estudiar la formacion de vortices
-        * Abril, Francisco, alguien mas?
+## Simetria axial: 
+**Francisco, Ana, Tula, Argelia, quien mas?**
+		
+		* choque de configuraciones multiestado, trazar lo que le pasa a los excitados
         
-## Full 3D (codigo de Pablo): 
+
+## Pseudo3D (fmr): [link](https://www.google.com)
+**Francisco, Abril, Tula, quien mas?**
+
+		* configuraciones con rotacion, generacion de un muestrario de RCs y ajustar muestras grandes de galaxias 
+
+## Pseudo3D (fmr): [link](https://www.google.com)
+**Abril, Francisco, alguien mas?**
+	
+		* Configuraciones con momento angular para estudiar la formacion de vortices
+       
+        
+## Full 3D (codigo de Pablo): [link](https://www.google.com)
 **Jose Manuel, Ana, Pablo, Luis Padilla, Francisco**
 
         * Mejorar el estatus con los pasos siguientes:
         * Checar una configuracion
         * Revisar si se reproducen los choques frontales.
         * Objetivo: tener el choque de configs en orbita lo antes posible, para verificar lo de Niemeyer
-		[link](https://www.google.com)
+		
 
-## Simulaciones con GADGET modificado:
+## Simulaciones con GADGET modificado:[link](https://www.google.com)
 **Francisco a hacer el primer intento e informar**
 	
 	 	*Mergers de multiples configuraciones para:
@@ -61,11 +72,11 @@ La idea es sustituir las muchas estructuras por las muchas posibilidades (linda 
       	1. verificar si las suposiciones que se usan en GADGET modificado son correctas
         	2. Para estudiar formacion de estructuras grandes por jerarquia
         	3. Checar estados finales, perfiles y tiempos de relajacion.
- 		[link](https://www.google.com)
+ 		
 
-## Formacion de hoyos negros con BosonStar relativista:
+## Formacion de hoyos negros con BosonStar relativista: [link](https://www.google.com)
 **Ana, Francisco (Francisco a pasar codigo a Ana)**
 
         *Intentar trazar el campo escalar remanente
-        [link](https://www.google.com)
+        
         
