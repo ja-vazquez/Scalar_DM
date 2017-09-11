@@ -11,10 +11,12 @@ and also to avoid oerlapping projects.
 ## Modificar el codigo de Alma 
 **Luis, Abril, alguien mas?**
 
-		* Para un campo complejo con auto-interacción (por ahora es campo real sin autointeracción). Por el momento sólo se han obtenido resultados para campo real (para el cuál la representación hidrodinámica no es exacta), y se discutio en comenzar a analizar el caso complejo. Estos resultados serian importantes para complementar nuestro trabajo, así como el de Tanja y Shapiro quienes aun no hacen el analisis completo.
+		* Para un campo complejo con auto-interacción (por ahora es campo real sin autointeracción). Por el momento sólo se han obtenido resultados para campo real 
+		(para el cuál la representación hidrodinámica no es exacta), y se discutio en comenzar a analizar el caso complejo. Estos resultados serian importantes para complementar 
+		nuestro trabajo, así como el de Tanja y Shapiro quienes aun no hacen el analisis completo.
 
 
-## comparar las soluciones que ya conocemos del sistema SP clásico
+## Comparar las soluciones que ya conocemos del sistema SP clásico
 **Abril, Argelia, Francisco**
 		
 		* Con las soluciones que se pudieran obtener de la representacion hidrodinamica. Esto para corroborar que en efecto en el limite clásico ambos modelos resultan equivalentes.
