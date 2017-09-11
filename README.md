@@ -52,10 +52,11 @@ La idea es sustituir las muchas estructuras por las muchas posibilidades (linda 
 ## Simulaciones con GADGET modificado:
 ** Francisco a hacer el primer intento e informar **
 	
-       -Mergers de multiples configuraciones para:
-      	1. verificar si las suposiciones que se usan en GADGET modificado son correctas
-        2. Para estudiar formacion de estructuras grandes por jerarquia
-        3. Checar estados finales, perfiles y tiempos de relajacion.
+... * Mergers de multiples configuraciones para:
+		
+      		1. verificar si las suposiciones que se usan en GADGET modificado son correctas
+        	2. Para estudiar formacion de estructuras grandes por jerarquia
+        	3. Checar estados finales, perfiles y tiempos de relajacion.
  		
 
 ## Formacion de hoyos negros con BosonStar relativista:
