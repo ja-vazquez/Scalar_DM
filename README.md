@@ -60,6 +60,6 @@ La idea es sustituir las muchas estructuras por las muchas posibilidades (linda 
  		
 
 ## Formacion de hoyos negros con BosonStar relativista:
-
-        - Intentar trazar el campo escalar remanente
-        	* Ana, Francisco (Francisco a pasar codigo a Ana)
+**Ana, Francisco (Francisco a pasar codigo a Ana)**
+        -Intentar trazar el campo escalar remanente
+        
