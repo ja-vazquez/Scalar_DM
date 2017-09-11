@@ -49,12 +49,12 @@ La idea es sustituir las muchas estructuras por las muchas posibilidades (linda 
                 + Revisar si se reproducen los choques frontales.
                 + Objetivo: tener el choque de configs en orbita lo antes posible, para verificar lo de Niemeyer
 
-- Simulaciones con GADGET modificado:
+## Simulaciones con GADGET modificado:
         Mergers de multiples configuraciones para:
-        1) verificar si las suposiciones que se usan en GADGET modificado son correctas
+      	1) verificar si las suposiciones que se usan en GADGET modificado son correctas
         2) Para estudiar formacion de estructuras grandes por jerarquia
         3) Checar estados finales, perfiles y tiempos de relajacion.
-        * Francisco a hacer el primer intento e informar
+        	* Francisco a hacer el primer intento e informar
 
 ## Formacion de hoyos negros con BosonStar relativista:
 
