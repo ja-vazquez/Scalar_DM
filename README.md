@@ -43,11 +43,14 @@ La idea es sustituir las muchas estructuras por las muchas posibilidades (linda 
 
 - Pseudo3D (fmr): Configuraciones con momento angular para estudiar la formacion de vortices
         * Abril, Francisco, alguien mas?
-- Full 3D (codigo de Pablo): Jose Manuel, Ana, Pablo, Luis Padilla, Francisco
+        
+##Full 3D (codigo de Pablo): 
+**Jose Manuel, Ana, Pablo, Luis Padilla, Francisco**
+
         * Mejorar el estatus con los pasos siguientes:
-                + Checar una configuracion
-                + Revisar si se reproducen los choques frontales.
-                + Objetivo: tener el choque de configs en orbita lo antes posible, para verificar lo de Niemeyer
+                * Checar una configuracion
+                * Revisar si se reproducen los choques frontales.
+                * Objetivo: tener el choque de configs en orbita lo antes posible, para verificar lo de Niemeyer
 
 ## Simulaciones con GADGET modificado:
 **Francisco a hacer el primer intento e informar**
@@ -61,5 +64,6 @@ La idea es sustituir las muchas estructuras por las muchas posibilidades (linda 
 
 ## Formacion de hoyos negros con BosonStar relativista:
 **Ana, Francisco (Francisco a pasar codigo a Ana)**
-        -Intentar trazar el campo escalar remanente
+
+        *Intentar trazar el campo escalar remanente
         
